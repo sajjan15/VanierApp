@@ -2,6 +2,7 @@
 
 namespace VanierApp.Controllers
 {
+    //Error Controller class operations
     public class ErrorController : Controller
     {
 
