@@ -3,6 +3,7 @@
 namespace VanierApp.Controllers
 {
     //Error Controller class operations
+    //New Changes
     public class ErrorController : Controller
     {
 
